@@ -1,1 +1,1 @@
-## Graphql Talk for TulsaJS 2017
+## Graphql Talk for TulsaRB 2018
